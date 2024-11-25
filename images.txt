@@ -8,3 +8,5 @@
 jasonish/suricata
 #suricata:lastest-profiling
 ghcr.io/jasonish/suricata:latest-profiling
+#bash image
+bash
