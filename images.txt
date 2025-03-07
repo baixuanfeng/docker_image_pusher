@@ -10,3 +10,5 @@ jasonish/suricata
 ghcr.io/jasonish/suricata:latest-profiling
 #bash image
 bash
+#clash
+dreamacro/clash:v1.18.0
